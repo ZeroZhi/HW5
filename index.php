@@ -4,7 +4,7 @@
   <title>Форма</title>
  </head>
  <body>
-   <form action=practice.php. enctype="multipart/form-data" name="first" method="post">
+   <form action=form.php. enctype="multipart/form-data" name="first" method="post">
      <input type="file" name="yoga"/><br><br>
       <select name='city'><br>
        <option value=0>Выберите город</option><br>
